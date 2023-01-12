@@ -20,3 +20,5 @@ let binaryLiteral: number = 0b1010;
 let octalLiteral: number = 0o744;
 let notANumber: number = NaN;
 let infinityNumber: number = Infinity;
+
+let unusable: void = undefined;

@@ -15,3 +15,4 @@ var binaryLiteral = 10;
 var octalLiteral = 484;
 var notANumber = NaN;
 var infinityNumber = Infinity;
+var unusable = undefined;
